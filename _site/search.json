@@ -6,14 +6,14 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-21T02:24:45+08:00"
+      "last_modified": "2021-08-10T16:41:55+08:00"
     },
     {
       "path": "index.html",
       "title": "ISSS608 Visual Analaytics Project Team 7",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-21T02:24:46+08:00"
+      "last_modified": "2021-08-10T16:42:03+08:00"
     }
   ],
   "collections": ["posts/posts.json"]
